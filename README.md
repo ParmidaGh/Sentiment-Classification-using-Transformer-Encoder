@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4338ca,100:0ea5e9&height=220&section=header&text=Transformer%20Encoder%20from%20Scratch%20for%20Sentiment%20Analysis&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4338ca,100:0ea5e9&height=220&section=header&text=Transformer%20Encoder%20for%20Sentiment%20Analysis&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
 </div>
 
 ---
 
-# Transformer Encoder from Scratch for Sentiment Classification on SST-2
+# Transformer Encoder for Sentiment Classification on SST-2
 
-A from-scratch PyTorch implementation of the Transformer encoder introduced in *Attention Is All You Need*, built block by block — scaled dot-product attention, multi-head attention, layer normalization, positional encoding, and residual encoder blocks — and trained end-to-end for binary sentiment classification on the GLUE SST-2 benchmark.
+A PyTorch implementation of the Transformer encoder introduced in *Attention Is All You Need*, built block by block — scaled dot-product attention, multi-head attention, layer normalization, positional encoding, and residual encoder blocks — and trained end-to-end for binary sentiment classification on the GLUE SST-2 benchmark.
 
 <div align="left">
 
