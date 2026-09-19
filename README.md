@@ -191,7 +191,6 @@ Transformer-Encoder-for-Sentiment-Classification
 ├── transformers_sentiment_analysis.py      # Core Transformer encoder implementation
 ├── a5_helper.py                            # Testing and validation utilities
 ├── helpers_module/                         # Shared data and training utilities
-├── requirements.txt                        # Dependencies
 └── README.md
 ```
 
@@ -207,7 +206,6 @@ conda create -n transformer-sst2 python=3.10
 conda activate transformer-sst2
 
 # 3. Install dependencies
-pip install -r requirements.txt
 # Core deps: torch, transformers, datasets
 ```
 
